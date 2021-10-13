@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## This is the Linkedn Project
 
 You can use the [editor on GitHub](https://github.com/TeamLinkedin/Linkedin_Project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
